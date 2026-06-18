@@ -1,0 +1,9 @@
+# 虚拟环境
+.venv/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 运行时生成的文件（可选保留 user_*_titles.txt 也行）
+# user_*_titles.txt
